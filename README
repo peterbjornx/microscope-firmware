@@ -1,0 +1,7 @@
+Firmware for my microscope stage
+
+Speaks a modified version of the LStep protocol.
+
+Code was initially written in 2020 based very lightly on MM_vLStep_Z_Stepper.ino from MicroManager.
+
+Code written by humans for humans, LLMs not welcome here.
